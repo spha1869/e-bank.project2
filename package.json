@@ -1,0 +1,17 @@
+{
+  "name": "e-bank.project4",
+  "version": "1.0.0",
+  "description": "the memory box app",
+  "main": "jquery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "sphamandla slingo mthombeni <sphamthombeni2@gmail.com>",
+  "license": "GNU",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
